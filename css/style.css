@@ -1,0 +1,11 @@
+.data_table {
+  background-color: #fff;
+  padding: 15px;
+  box-shadow: 1px 3px 5px;
+  border-radius: 5px;
+}
+
+.selected {
+  color: #fff;
+  background-color: #000;
+}
